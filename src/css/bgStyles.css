@@ -1,11 +1,11 @@
 @font-face {
     font-family: OffBit-DotBold;
-    src: url("../assets/fonts/OffBitTrial-DotBold.ttf") format('truetype');
+    src: url("./../../assets/fonts/OffBitTrial-DotBold.ttf") format('truetype');
 }
 
 @font-face {
     font-family: OffBit-Dot;
-    src: url("../assets/fonts/OffBitTrial-Regular.ttf") format('truetype');
+    src: url("./../../assets/fonts/OffBitTrial-Regular.ttf") format('truetype');
 }
 
 html {
@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background-image: url("../assets/compressed-BG.gif");
+    background-image: url("./../../assets/background/compressed-BG.gif");
     background-size: cover;
 
     overflow-x: hidden;
